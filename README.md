@@ -33,6 +33,17 @@ C++ | O | | | | |
 
 ## 프로젝트 / Projects
 
+### SKHU's
+- 팀 프로젝트 / 2017.12.22 ~ 2018.07.25
+- 기존 성공회대 종합정보시스템 모바일 앱인 foressst 앱 리뉴얼 프로젝트
+- 프로젝트 총괄, 백엔드 개발, 모바일 앱 개발, 서버 관리에 참여
+- 사용기술
+  - 모바일 앱 : Javascript, React Native, Expo, ESLint
+  - 백엔드 : Node.js, Express.js, Puppeteer, ESLint
+  - 서버 관리, 백엔드 코드 배포 : AWS, Ubuntu, Docker(Swarm mode), Caddy
+- https://github.com/s-owl/skhu-backend
+- https://github.com/s-owl/skhu-app
+
 ### HackPay
 - 해커톤 팀 프로젝트 / 2017.11.23 ~ 2017.11.24
 - Naver Winter Campus Hackday 해커톤에 참가하여, QR 코드 기반 오프라인 결제 시스템 개발 팀에 참여.
