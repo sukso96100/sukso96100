@@ -36,6 +36,15 @@ C++ | O | | | | |
 
 ## 프로젝트 / Projects
 
+### Quickshare
+- 해커톤 팀 프로젝트 / 2018.08.24 ~ 2018.08.25
+- 제2회 웰컴투 메이커 월드(Welcome to Maker World)에 팀으로 참여하여 개발
+- GitHub 와 연동된 웹 기반 실시간 코딩 협업도구
+- 제대로 작동하는 완성품을 개발하는데 실패
+- 사용기술 : React, Monaco Editor, Peer.js, Firebase
+- TREBIT 대표이사 상 수상
+- https://github.com/sukso96100/quickshare
+
 ### SKHU's
 - 팀 프로젝트 / 2017.12.22 ~ 2018.07.25
 - 기존 성공회대 종합정보시스템 모바일 앱인 foressst 앱 리뉴얼 프로젝트
@@ -86,6 +95,11 @@ C++ | O | | | | |
 - https://github.com/s-owl/skhu-backend
 
 ## 수상 경력 / Awards
+
+### 제2회 웰컴투 메이커 월드(Welcome to Maker World)
+- 2018.08.25
+- Quickshare - GitHub 와 연동된 웹 기반 실시간 코딩 협업도구
+- TREBIT 대표이사 상 수상(상금 50만원)
 
 ### 제8회 성공회대학교 IT경진대회
 - 2017.10.24
