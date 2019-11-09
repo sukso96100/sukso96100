@@ -32,7 +32,10 @@ Git | | | O | | |
 Python | | O | | | |
 Android(Java, Kotlin) | | O | | | |
 C | | O | | | |
-C++ | O | | | | |
+Go | | O | | | |
+
+## 자유/오픈소스 프로젝트 기여 이력
+- [해당 문서 참조](FOSS_CONTRIB_HISTORY.md)
 
 ## 프로젝트 / Projects
 
