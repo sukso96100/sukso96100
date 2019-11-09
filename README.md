@@ -34,10 +34,44 @@ Android(Java, Kotlin) | | O | | | |
 C | | O | | | |
 Go | | O | | | |
 
-## 자유/오픈소스 프로젝트 기여 이력
+## 자유/오픈소스 프로젝트 기여 이력 / FOSS Contribution History
 - [해당 문서 참조](FOSS_CONTRIB_HISTORY.md)
 
 ## 프로젝트 / Projects
+
+### SKHU's - 성공회대학교 종합정보시스템 모바일 앱
+- 팀 프로젝트
+- 모바일 앱 OTA 업데이트 배포 자동화
+  - 2019.09.12
+  - GitHub 저장소에서, `OTA-` 로 시작하는 태그를 새로 개시하면, GitHub Actions 에서 Expo CLI 를 통해 OTA 업데이트를 바로 배포하도록 구축
+  - Expo CLI 가 설치된 장비가 없어도 웹에서 즉시 배포할수 있게 되어 배포 프로세스가 기존에 비해 단순화 됨.
+  - 사용 기술 : 
+- SKHU's 백엔드 재개발
+  - 2019.08.01 ~ 2019.08.24
+  - 기존 Node.js 기반으로 개발된 백엔드를 모두 Go 언어로 재개발.
+  - 재개발 및 배포 완료 후, 컨테이너 이미지 크기가 약 1/5 로 감소하고, 메모리 사용량은 약 절반 정도로 감소
+  - 사용기술 : Go, Gin, Chromedp, GoQuery
+  - https://github.com/s-owl/skhus-backend
+- SKHU's 리뉴얼 프로젝트
+  - 2017.12.22 ~ 2018.07.25
+  - 기존 성공회대 종합정보시스템 모바일 앱인 foressst 앱 리뉴얼 프로젝트
+  - 프로젝트 총괄, 백엔드 개발, 모바일 앱 개발, 서버 관리에 참여
+  - 모바일 앱 전면 재개발, 백엔드에서 Phantom.js 를 Puppeteer 로 모두 대체, 작동 하지 않는 부분 모두 다시 개발.
+  - 앱 전면 재개발로, Ionic 1.x 개발 중단으로 유지보수가 어려워진 기존 앱을 완전히 대체. 새 앱에서는 메인 화면에 출결확인, 다음 강의 정보, 학사일정 정보를 배치하고 메뉴화면에서 그 외 기능을 바로 접근 가능하도록 배치하여 사용성을 크게 향상.
+  - 사용기술
+    - 모바일 앱 : Javascript, React Native, Expo, ESLint
+    - 백엔드 : Node.js, Express.js, Puppeteer, ESLint
+    - 서버 관리, 백엔드 코드 배포 : AWS, Ubuntu, Docker(Swarm mode), Caddy
+  - https://github.com/s-owl/skhu-backend
+  - https://github.com/s-owl/skhu-app
+  - https://skhus.sleepy-owl.com/
+- Foressst 초기버전 개발 및 출시
+  - 2016년 8월 ~ 2016년 10월
+  - 종합정보시스템 접속시 IE 로만 접속이 가능하고, 타 브라우저나 모바일에서는 사용하기 불편한 점을 해결함.
+  - 사용기술 : Node.js(Express.js), Phantom.js, Docker, Git
+  - 2016.08.05 ~ 현재 : 백엔드 개발 및 배포
+  - 2016.10.24 : 제7회 성공회대학교 IT 경진대회 은상 수상
+  - https://github.com/s-owl/skhu-backend
 
 ### Quickshare
 - 해커톤 팀 프로젝트 / 2018.08.24 ~ 2018.08.25
@@ -47,19 +81,6 @@ Go | | O | | | |
 - 사용기술 : React, Monaco Editor, Peer.js, Firebase
 - TREBIT 대표이사 상 수상
 - https://github.com/sukso96100/quickshare
-
-### SKHU's
-- 팀 프로젝트 / 2017.12.22 ~ 2018.07.25
-- 기존 성공회대 종합정보시스템 모바일 앱인 foressst 앱 리뉴얼 프로젝트
-- 프로젝트 총괄, 백엔드 개발, 모바일 앱 개발, 서버 관리에 참여
-- 모바일 앱 전면 재개발, 백엔드에서 Phantom.js 를 Puppeteer 로 모두 대체, 작동 하지 않는 부분 모두 다시 개발.
-- 사용기술
-  - 모바일 앱 : Javascript, React Native, Expo, ESLint
-  - 백엔드 : Node.js, Express.js, Puppeteer, ESLint
-  - 서버 관리, 백엔드 코드 배포 : AWS, Ubuntu, Docker(Swarm mode), Caddy
-- https://github.com/s-owl/skhu-backend
-- https://github.com/s-owl/skhu-app
-- https://skhus.sleepy-owl.com/
 
 ### HackPay
 - 해커톤 팀 프로젝트 / 2017.11.23 ~ 2017.11.24
@@ -89,13 +110,7 @@ Go | | O | | | |
 - 사용기술 : Android(Java)
 - 사용자가 앱에서 사진을 촬영하면, 발주처에서 제공한 바이너리를 사진과 함께 실행하여 바이너리가 출력한 내용을 화면에 보여주는 시연용 앱 개발.
 
-### Foressst - 성공회대학교 종합정보시스템 모바일 앱
-- 팀 프로젝트 / 2016년 8월 ~ 2016년 10월
-- 종합정보시스템 접속시 IE 로만 접속이 가능하고, 타 브라우저나 모바일에서는 사용하기 불편한 점을 해결함.
-- 사용기술 : Node.js(Express.js), Phantom.js, Docker, Git
-- 2016.08.05 ~ 현재 : 백엔드 개발 및 배포
-- 2016.10.24 : 제7회 성공회대학교 IT 경진대회 은상 수상
-- https://github.com/s-owl/skhu-backend
+
 
 ## 수상 경력 / Awards
 
