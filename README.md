@@ -6,7 +6,7 @@
 - 대한민국 경기도 부천시 거주
 - 군 복무 중 (대한민국 공군 2018.09.17 ~ 2020.07.26)
 - :phone: +82 10-9587-8376 | :email: sukso96100@gmail.com
-- :octocat: [github.com/sukso96100](github.com/sukso96100) | :globe_with_meridians: [youngbin.xyz](https://youngbin.xyz)
+- :octocat: [https://github.com/sukso96100](github.com/sukso96100) | :globe_with_meridians: [youngbin.xyz](https://youngbin.xyz)
 
 ## 학력 / Education
 
