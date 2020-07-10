@@ -1,14 +1,12 @@
-# Resume
-
-**한영빈 / Youngbin Han / 韓永斌 / 韩永斌**
+# 한영빈
+**Youngbin Han / 韓永斌 / 韩永斌**
 
 소프트웨어공학을 전공중인 대학생입니다. 웹, 모바일, 오픈소스, 리눅스, 클라우드, 지역화 등 다양한 분야에 관심을 가지고 계속 배워나가고 있습니다.
 
 - 대한민국 경기도 부천시 거주
 - 군 복무 중 (대한민국 공군 2018.09.17 ~ 2020.07.26)
-- Phone : +82 10-9587-8376
-- Email : sukso96100@gmail.com
-- GitHub : github.com/sukso96100
+- :phone: +82 10-9587-8376 | :email: sukso96100@gmail.com
+- :octocat: github.com/sukso96100 | :globe_with_meridians: youngbin.xyz
 
 ## 학력 / Education
 
@@ -18,10 +16,13 @@
 - 학적 변동 이력
   - 2016.02 ~ 2018.07.27 / 재학
   - 2018.07.27 ~ / 군 입대 휴학
-
+  
+<details><summary>더 보기</summary>
+  
 ### 시온고등학교
 - 대한민국 경기도 부천시 범박동 소재
 - 2013.03 ~ 2016.02 / 졸업
+</details>
 
 ## 보유 기술 / Skills
 이름 | 하 | 중하 | 중 | 중상 | 상
