@@ -25,15 +25,20 @@
 </details>
 
 ## 보유 기술 / Skills
-이름 | 하 | 중하 | 중 | 중상 | 상
---- | --- | --- | --- | --- | ---
-Node.js(Express.js) | | O | | | |
-Docker | | O | | | |
-Git | | | O | | |
-Python | | O | | | |
-Android(Java, Kotlin) | | O | | | |
-C | | O | | | |
-Go | | O | | | |
+- **언어**  
+  - Go(3), Kotlin(2), Java(2), JavaScript(3), C(1)  
+- **백엔드**  
+  - Go - Gin(3), Echo(3), Gorm(2), Chromedp(3), GoQuery(3)  
+  - JavaScript(Node.js) - Express.js(2), Puppeteer(3), JSDom(3)  
+- **프론트엔드/모바일 앱**  
+  - JavaScript - React Native(3), React.js(3)  
+  - Java, Kotlin - Android(1)  
+- **데이터베이스**  
+  - MySQL(2), Oracle(1)  
+- **기타**  
+  - Docker(2), Git(3), GitHub(3), GitHub Actions(2), Ubuntu(2), i18n(2)
+
+> (1)기초 수준, (2)취미 수준, (3)프로젝트 개발 가능, (4)제품 개발 가능
 
 ## 자유/오픈소스 프로젝트 기여 이력 / FOSS Contribution History
 - [해당 문서 참조](FOSS_CONTRIB_HISTORY.md)
