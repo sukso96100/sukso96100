@@ -7,7 +7,7 @@
 
 Youngbin Han / 韓永斌 / 韩永斌
 
-DevOps Engineer at [Cloudmate](https://cloudmt.co.kr) and also university student studies Software Engineering at [Sungkonghoe University](https://skhu.ac.kr) **yet**
+DevOps Engineer at [Cloudmate](https://cloudmt.co.kr) (@cloudmatelabs) and also university student studies Software Engineering at [Sungkonghoe University](https://skhu.ac.kr) **yet**
 
 [**이력서 | Resume**](https://www.notion.so/youngbinhan/Resume-e2d048fead9a405fbfa985d30761de76)
 
