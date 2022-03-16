@@ -8,7 +8,7 @@
 Youngbin Han / 韓永斌 / 韩永斌
 
 - Software Engineer @ [Cloudmate](https://cloudmt.co.kr) (@cloudmatelabs)
-- Organizer @ Ubuntu Korea Community (@ubuntu-kr)
+- Organizer @ [Ubuntu Korea Community](https://ubuntu-kr.org) (@ubuntu-kr)
 
 [**이력서 | Resume**](https://www.notion.so/youngbinhan/Resume-e2d048fead9a405fbfa985d30761de76)
 
