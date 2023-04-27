@@ -9,7 +9,7 @@ Youngbin Han / 韓永斌 / 韩永斌
 
 - Software Engineer @ [Cloudmate Co., Ltd.](https://cloudmt.co.kr) (@cloudmatelabs)
 - Organizer @ [Ubuntu Korea Community](https://ubuntu-kr.org) (@ubuntu-kr)
-- Organizer @ [UbuCon Asia](https://ubucon.asia) (@ubucon-asia
+- Organizer @ [UbuCon Asia](https://ubucon.asia) (@ubucon-asia)
 
 ☎️ +82 10-9587-8376 | 🌐  [youngbin.xyz](https://youngbin.xyz)
 
