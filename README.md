@@ -11,7 +11,7 @@ Youngbin Han / 韓永斌 / 韩永斌
 - Organizer @ [Ubuntu Korea Community](https://ubuntu-kr.org) (@ubuntu-kr)
 - Organizer @ [UbuCon Asia](https://ubucon.asia) (@ubucon-asia)
 
-☎️ +82 10-9587-8376 | 🌐  [youngbin.xyz](https://youngbin.xyz)
+🌐  [youngbin.xyz](https://youngbin.xyz)
 
 [![Youngbin Han's github stats](https://github-readme-stats.vercel.app/api?username=sukso96100)](https://github.com/anuraghazra/github-readme-stats)
 
