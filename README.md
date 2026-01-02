@@ -8,6 +8,7 @@
 Youngbin Han / 韓永斌 / 韩永斌
 
 - Software Engineer @ [AhnLab CloudMate Inc.](https://ahnlabcloudmate.com) (@ahnlabcloudmatelabs)
+- Founder & President @ [FOSS for All](https://fossforall.org) (@foss-for-all)
 - Member @ Ubuntu LoCo Council
 - Organizer @ [Ubuntu Korea Community](https://ubuntu-kr.org) (@ubuntu-kr)
 - Organizer @ [UbuCon Asia](https://ubucon.asia) (@ubucon-asia)
