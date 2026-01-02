@@ -1,4 +1,4 @@
-# 한영빈  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsukso96100)](https://hits.seeyoufarm.com)
+# 한영빈 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsukso96100&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hanyoungbin/)](https://www.facebook.com/hanyoungbin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sukso96100/)](https://twitter.com/sukso96100/)
