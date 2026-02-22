@@ -21,6 +21,7 @@ https://youngbin.xyz | me\@youngbin.xyz | https://github.com/sukso96100
   - 관리팀에서 청구 업무를 위해 방문하던 7~8개의 외부 사이트를 1곳의 통합 플랫폼으로 일원화
   - 매달 200건 이상 청구서 이메일 발송 시 성능저하 이슈 개선 (쿼리 타임아웃, 커넥션 제한 초과 이슈 등 개선)
   - ASP.NET Core, SQL Server, MySQL, EF Core, Azure Container Apps 등 활용
+
 === RITA - RI 구입 업무 데이터 검증 시스템
 - *클라우드 RI(Reserved Instance) 구입 프로세스 자동화 및 데이터 정합성 검증 시스템 구축*
   - 서비스 백엔드 설개/개발 및 유효성 검증을 위한 데이터 수집 파이프라인 구축
@@ -31,8 +32,12 @@ https://youngbin.xyz | me\@youngbin.xyz | https://github.com/sukso96100
 
 === LG전자 생산기술연구원 AI Platform 개발 및 유지보수
 LG전자 생산기술연구원의 MAVIN Cloud 백엔드(PHP/Laravel, MySQL기반) 및 NAVIS 백엔드(PHP/Laravel)와 Core API(FastAPI), CS포탈(PHP/Laravel) 신규 기능 개발 및 유지보수에 참여 하였습니다.
+
 === RPM (Resource Power Manager) 서비스 개발
-고객사의 클라우드 비용 절감을 돕기 위해, 퍼블릭 클라우드에 배포된 VM 전원 관리를 자동화 하는 서비스 입니다. ASPNET Core, SQL Server, AWS/GCP/Azure SDK, gRPC 등을 활용하여 개발 하였으며, 클라우드 벤더 연동 관리, VM 관리, 외부 워크플로 연동을 통한 VM 전원 관리 스케줄 등록 등 개발에 참여 하였습니다.
+고객사에서 사용중인 퍼블릭 클라우드의 VM 전원 관리를 자동화 하여 비용 절감을 돕는 서비스.
+- ASP.NET Core, SQL Server 기반 백엔드 개발, Azure Pipeline 기반 빌드 및 배포 파이프라인 구성
+- VM 전원 제어를 위한 클라우드 벤더 연동(VM 목록 조회, 전원 제어 등) 개발 (AWS, Google Cloud, Azure SDK 사용)
+- 내부 구축된 워크플로 서비스 연동 작업(VM별 전원 관리 스케줄 등록 등)
 
 === mateBilling 2.0 고객사 클라우드 빌링 데이터 수집 파이프라인 개발 PoC
 - 기존 수집 프로세스의 한계를 극복하기 위한 차세대 파이프라인 검증
