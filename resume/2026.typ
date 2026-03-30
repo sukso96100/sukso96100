@@ -30,15 +30,6 @@ https://youngbin.xyz | me\@youngbin.xyz | https://github.com/sukso96100
   - 구조화된 로깅(Structured Logging) 도입으로, 장애 발생 시 원인 파악 및 대응 시간 단축
   - ASP.NET Core, Serilog, MySQL, EF Core, Azure Container Apps 등 활용
 
-=== LG전자 생산기술연구원 AI Platform 개발 및 유지보수
-LG전자 생산기술연구원의 MAVIN Cloud 백엔드(PHP/Laravel, MySQL기반) 및 NAVIS 백엔드(PHP/Laravel)와 Core API(FastAPI), CS포탈(PHP/Laravel) 신규 기능 개발 및 유지보수에 참여 하였습니다.
-
-=== RPM (Resource Power Manager) 서비스 개발
-고객사에서 사용중인 퍼블릭 클라우드의 VM 전원 관리를 자동화 하여 비용 절감을 돕는 서비스.
-- ASP.NET Core, SQL Server 기반 백엔드 개발, Azure Pipeline 기반 빌드 및 배포 파이프라인 구성
-- VM 전원 제어를 위한 클라우드 벤더 연동(VM 목록 조회, 전원 제어 등) 개발 (AWS, Google Cloud, Azure SDK 사용)
-- 내부 구축된 워크플로 서비스 연동 작업(VM별 전원 관리 스케줄 등록 등)
-
 === mateBilling 2.0 고객사 클라우드 빌링 데이터 수집 파이프라인 개발 PoC
 - 기존 수집 프로세스의 한계를 극복하기 위한 차세대 파이프라인 검증
   - 기존 Azure Pipeline 기반 일괄 수집 방식의 낮은 유연성(부분 재수집 불가) 및 데이터 정합성 대응의 어려움 해결 시도
@@ -52,21 +43,35 @@ LG전자 생산기술연구원의 MAVIN Cloud 백엔드(PHP/Laravel, MySQL기반
 - 2022.02 - 2022.08
 - ASP.NET Core, SQL Server 기반 백엔드 개발, Azure Pipeline 기반 빌드 및 배포 파이프라인 구성
 - 고객사 정보 관리 기능(Account), 고객사별 서류파일 관리, 계약관리, 거래관리, 대시보드용 API 등을 개발
+
 === mateBilling 2.0 개발
 협력사를 통해 개발/제공하던 것을 직접 개발하여 고객사 대상으로 퍼블릭 클라우드 통합 빌링 제공 목적으로 개발
-- 2021.01 - 2021.03
+- 2020.12 - 2021.03 (초기 개발), 2021.04 - 2021.09 (고도화 개발), 2022.01 (PG 연동서버 교체)
 - Django 및 PowerBI Embedded 기반 대시보드, 청구서 관리, 관리자 화면 등 제공하는 초기 제품 개발
 - Django Rest Framework 부분 도입으로 인보이스 기능 고도화 개발
 - .NET Framework 기반 KICC EasyPay 연동용 Soap API 서버 Kotlin 기반 HTTP API 서버로 개발하여 교체
 - Python 기반 빌링 데이터 수집기 유지보수
 
+=== RPM (Resource Power Manager) 서비스 개발
+고객사에서 사용중인 퍼블릭 클라우드의 VM 전원 관리를 자동화 하여 비용 절감을 돕는 서비스.
+- 2023.03 - 2023.08
+- ASP.NET Core, SQL Server 기반 백엔드 개발, Azure Pipeline 기반 빌드 및 배포 파이프라인 구성
+- VM 전원 제어를 위한 클라우드 벤더 연동(VM 목록 조회, 전원 제어 등) 개발 (AWS, Google Cloud, Azure SDK 사용)
+- 내부 구축된 워크플로 서비스 연동 작업(VM별 전원 관리 스케줄 등록 등)
+
+=== LG전자 생산기술연구원 AI Platform 개발 및 유지보수
+- 2024.01 - 2025.02
+- MAVIN Cloud 백엔드(PHP/Laravel, MySQL): 유지보수 및 SAM 라벨링 관련 API 개발, 프로젝트 제한정책 기능, 학습 지연 알림 메일 기능 등 개발
+- NAVIS 백엔드(PHP/Laravel) 및 Core API(FastAPI): 유지보수 및 각종 신규 오디오 인식 모델/알고리즘별 API 엔드포인트 추가 작업.
+- CS포탈 백엔드(PHP/Laravel): 유지보수 및 CS등록 이메일 알림 기능, CS중요도 지정 기능, 검색 필터 기능 등 작업.
 
 = 학력
 
 == 성공회대학교
 - 2016.02 - 2022.02
 - 소프트웨어공학과 학사 졸업
+
 = 스킬
-C\#, ASP.NET Core, Python, Golang, Gin, PHP, Laravel, Docker, Kubernetes(AKS), Azure, Azure DevOps, Kotlin, Spring Boot
+C\#, ASP.NET Core, Golang, Gin, Python, Docker, Kubernetes(AKS), Azure, Azure DevOps, Kotlin, Spring Boot, PHP, Laravel
 
 = 대외활동
