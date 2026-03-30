@@ -75,3 +75,6 @@ https://youngbin.xyz | me\@youngbin.xyz | https://github.com/sukso96100
 C\#, ASP.NET Core, Golang, Gin, Python, Docker, Kubernetes(AKS), Azure, Azure DevOps, Kotlin, Spring Boot, PHP, Laravel
 
 = 대외활동
+- Ubuntu Local Community Council - 전세계 지역별 우분투 커뮤니티 지원/관리 조직. 비활성팀 인계 프로세스 도입, 리브랜딩 및 팀별 활동 지역 범위 가이드 조정
+- UbuCon Asia - 컨퍼런스 준비위원 활동 (개최지 선정, 후원사 유치, 발표자 섭외/모집, 현지 팀 소통 등)
+- 우분투한국커뮤니티 - 컨퍼런스(UbuCon Korea) 및 우분투 관련 밋업 등 행사 개최 지원, 세무/회계 관리, 대외협력 지원 등.
