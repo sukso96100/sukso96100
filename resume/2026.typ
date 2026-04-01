@@ -72,7 +72,9 @@ https://youngbin.xyz | me\@youngbin.xyz | https://github.com/sukso96100
 - 소프트웨어공학과 학사 졸업
 
 = 스킬
-C\#, ASP.NET Core, Golang, Gin, Python, Docker, Kubernetes(AKS), Azure, Azure DevOps, Kotlin, Spring Boot, PHP, Laravel
+- 프로그래밍 언어: C\#, Golang, Python, Kotlin, PHP
+- 백엔드 프레임워크: ASP.NET Core, Gin, Django, Spring Boot, Laravel
+- DevOps 및 인프라: Docker, Kubernetes(AKS), Azure, Azure DevOps
 
 = 대외활동
 - Ubuntu Local Community Council - 전세계 지역별 우분투 커뮤니티 지원/관리 조직. 비활성팀 인계 프로세스 도입, 리브랜딩 및 팀별 활동 지역 범위 가이드 조정
