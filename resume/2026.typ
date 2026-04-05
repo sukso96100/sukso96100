@@ -14,6 +14,7 @@ https://youngbin.xyz | me\@youngbin.xyz | https://github.com/sukso96100
 == 안랩클라우드메이트
 - 2020.10 - 재직중
 
+= 프로젝트
 === Billing 3.0 출시 및 운영
 - *기존 mateBilling 2.0을 대체하는 통합 클라우드 빌링 서비스 개발 및 운영*
   - 서비스 백엔드 및 빌링 데이터 수집기(Collector) 개발/유지보수
