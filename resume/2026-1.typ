@@ -166,29 +166,30 @@
   // consistent: true
 )
 
-== Extracurricular Activities
-
+== 대외활동
 #extracurriculars(
-  activity: "Capture The Flag Competitions",
-  dates: dates-helper(start-date: "Jan 2021", end-date: "Present"),
+  activity: "Ubuntu Local Community Council",
+  dates: dates-helper(start-date: "2024년 1월", end-date: "2026년 1월"),
 )
-- Founder of Les Amateurs (#link("https://amateurs.team")[amateurs.team]), currently ranked \#4 US, \#33 global on CTFTime (2023: \#4 US, \#42 global)
-- Organized AmateursCTF 2023 and 2024, with 1000+ teams solving at least one challenge and \$2000+ in cash prizes
-  - Scaled infrastructure using GCP, Digital Ocean with Kubernetes and Docker; deployed custom software on fly.io
-- Qualified for DEFCON CTF 32 and CSAW CTF 2023, two of the most prestigious cybersecurity competitions globally
+- 전세계 지역별 우분투 커뮤니티 지원/관리 조직. 비활성팀 인계 프로세스 도입, 리브랜딩 및 팀별 활동 지역 범위 가이드 조정
+#extracurriculars(
+  activity: "UbuCon Asia 준비위원회",
+  dates: dates-helper(start-date: "2021년 1월", end-date: "참여중"),
+)
+- 컨퍼런스 준비위원 활동 (개최지 선정, 후원사 유치, 발표자 섭외/모집, 현지 팀 소통 등)
+#extracurriculars(
+  activity: "DebConf 24 (연례 데비안 개발자 컨퍼런스) 비자팀 운영",
+  dates: dates-helper(start-date: "2024년 1월", end-date: "2024년 8월"),
+)
+- 컨퍼런스 준비위원 활동 (개최지 선정, 후원사 유치, 발표자 섭외/모집, 현지 팀 소통 등)
+#extracurriculars(
+  activity: "우분투한국커뮤니티",
+  dates: dates-helper(start-date: "2024년 1월", end-date: "2026년 1월"),
+)
+- 컨퍼런스(UbuCon Korea) 및 우분투 관련 밋업 등 행사 개최 지원, 세무/회계 관리, 대외협력 지원 등.
 
-// #extracurriculars(
-//   activity: "Science Olympiad Volunteering",
-//   dates: "Sep 2023 --- Present"
-// )
-// - Volunteer and write tests for tournaments, including LA Regionals and SoCal State \@ Caltech
 
-// #certificates(
-//   name: "OSCP",
-//   issuer: "Offensive Security",
-//   // url: "",
-//   date: "Oct 2024",
-// )
+
 
 == 스킬
 - 프로그래밍 언어: C\#, Golang, Python, Kotlin, PHP
