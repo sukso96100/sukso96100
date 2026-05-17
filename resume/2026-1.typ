@@ -49,7 +49,7 @@
   company: "안랩클라우드메이트",
   dates: dates-helper(start-date: "2020년 10월", end-date: "재직중"),
 )
-- 사내 인프라 엔지니어 생산성을 위한 백오피스 서비스 개발, 고객사 제공용 빌링 포털 개발, SI 프로젝트 등 백엔드 개발에 참여.
+- 사내 클라우드 엔지니어 생산성을 위한 백오피스 서비스 개발, 고객사 제공용 빌링 포털 개발, SI 프로젝트 등 백엔드 개발에 참여.
 - 초기 제품 개발, 빌링 포털 런칭 및 성능개선, 백오피스 서비스 개발 및 유지보수로 엔지니어 등 다른 직원 생산성 등에 기여
 
 == 프로젝트
@@ -143,18 +143,7 @@
 - ASP.NET Core, SQL Server 기반 백엔드 개발, Azure Pipeline 기반 빌드 및 배포 파이프라인 구성
 - VM 전원 제어를 위한 클라우드 벤더 연동(VM 목록 조회, 전원 제어 등) 개발 (AWS, Google Cloud, Azure SDK 사용)
 - 내부 구축된 워크플로 서비스 연동 작업(VM별 전원 관리 스케줄 등록 등)
-#project(
-  name: "LG전자 생산기술연구원 AI Platform 개발 및 유지보수",
-  // Role is optional
-  role: "",
-  // Dates is optional
-  dates: dates-helper(start-date: "2024년 1월", end-date: "2025년 2월"),
-  // URL is also optional
-  url: "",
-)
-- MAVIN Cloud 백엔드(PHP/Laravel, MySQL): 유지보수 및 SAM 라벨링 관련 API 개발, 프로젝트 제한정책 기능, 학습 지연 알림 메일 기능 등 개발
-- NAVIS 백엔드(PHP/Laravel) 및 Core API(FastAPI): 유지보수 및 각종 신규 오디오 인식 모델/알고리즘별 API 엔드포인트 추가 작업.
-- CS포탈 백엔드(PHP/Laravel): 유지보수 및 CS등록 이메일 알림 기능, CS중요도 지정 기능, 검색 필터 기능 등 작업.
+
 == 학력
 
 #edu(
